@@ -1,6 +1,10 @@
-# Tornado Plots for Silicon Module Offset Detection
+<div align="center">
+  <h1>Tornado Plots for Silicon Module Offset Detection</h1>
+  <p>Welcome to the Tornado Plots for Silicon Module Offset Detection repository! This project is designed to calculate module offsets and visualize the shifts of individual holes using tornado plots. These visualizations provide valuable insights to ensure precise wirebonding and avoid wire setting offsets.</p>
+</div>
 
-### Welcome to the Tornado Plots for Silicon Module Offset Detection repository! This project is designed to calculate module offsets and visualize the shifts of individual holes using tornado plots. These visualizations provide valuable insights to ensure precise wirebonding and avoid wire setting offsets.
+---
+
 
 ## Getting Started
 
