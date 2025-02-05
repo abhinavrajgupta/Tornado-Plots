@@ -33,10 +33,10 @@ The code in this repository is structured to specify paths for uploading images.
 
 ## Usage:
 ### 1. Run Detection Script:
-  - python run_detect.py
+    python run_detect.py
 ### 2. Generate Plots:
-Before running this script, please open **ArrowPlotScript.py** and update your current directory as base directory in the first function
-  - python ArrowPlotScript.py
+###### Before running this script, please open **ArrowPlotScript.py** and update your current directory as base directory in the first function
+    python ArrowPlotScript.py
 
 ## Results:
 ### 1. Detection Results: Images with labels for mercedes benz intersection saved at:
